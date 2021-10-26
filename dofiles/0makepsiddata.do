@@ -27,8 +27,9 @@ Codes for relation to head:
 
 **********************************************************************************/
 
-global logs "C:\Users\naama\Desktop\jhr_replication\dofiles"
-global data "C:\Users\naama\Desktop\jhr_replication\data"
+** Set globals with file paths
+global logs ""
+global data ""
 
 set more off
 clear all
