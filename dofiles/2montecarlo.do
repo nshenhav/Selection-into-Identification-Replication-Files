@@ -1,7 +1,7 @@
 #delimit ;
 
-global logs "C:\Users\naama\Desktop\jhr_replication\dofiles";
-global data "C:\Users\naama\Desktop\jhr_replication\data";
+global logs "";
+global data "";
 cap log close;
 log using $logs/2montecarlo.log , text replace ;
 
