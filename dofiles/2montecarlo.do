@@ -1,5 +1,6 @@
 #delimit ;
 
+/* Set globals with file paths */
 global logs "";
 global data "";
 cap log close;
